@@ -51,5 +51,8 @@ Target variable in the dataset:<br/>
     - Predicting the data
     - Calculating the prediction scores
     - Getting the model's accuracy
+    
+     ![Screenshot (2)](https://github.com/dubeyynishant/Heart-Disease-Prediction/assets/138271284/80849cce-3d83-4478-aad3-edcf91f7d591)
+
 
         
